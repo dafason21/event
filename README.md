@@ -1,1 +1,1 @@
-# event
+this is the frontend website designed by using html,css and javascript only ,this simple website allow customer to plan their event by choosing different package like send off,full wedding also you can preview it for more information
